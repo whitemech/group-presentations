@@ -11,7 +11,7 @@ subtitle:         Group Presentations
 tagline:          'Activity Blog of the WhiteMech group at Sapienza University of Rome'
 description:      'The group is focused on Artificial Intelligence, specifically on Knowledge Representation, Reasoning
                   about Actions and Planning, Reinforcement Learning and related topics.
-                  You can find out more about WhiteMech at <a href="https://whitemech.github.io/">whitemech.github.io/</a>.'
+                  You can find out more about WhiteMech at <a href="https://whitemech.github.io/">whitemech.github.io</a>.'
 url:              https://whitemech.github.io/
 baseurl:          /
 
@@ -19,7 +19,7 @@ author:
   name:           'WhiteMech'
   url:            https://whitemech.github.io/
 
-paginate:         10
+paginate:         5
 
 # Custom vars
 version:          2.1.0
