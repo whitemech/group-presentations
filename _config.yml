@@ -1,26 +1,28 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# markdown:         redcarpet
+rouge:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Whitemech
+subtitle:         Group Presentations
+tagline:          'Activity Blog of the WhiteMech group at Sapienza University of Rome'
+description:      'The group is focused on Artificial Intelligence, specifically on Knowledge Representation, Reasoning
+                  about Actions and Planning, Reinforcement Learning and related topics.
+                  You can find out more about WhiteMech at <a href="https://whitemech.github.io/">whitemech.github.io/</a>.'
+url:              https://whitemech.github.io/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'WhiteMech'
+  url:            https://whitemech.github.io/
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/whitemech
