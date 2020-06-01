@@ -13,7 +13,7 @@ description:      'The group is focused on Artificial Intelligence, specifically
                   about Actions and Planning, Reinforcement Learning and related topics.
                   You can find out more about WhiteMech at <a href="https://whitemech.github.io/">whitemech.github.io</a>.'
 url:              https://whitemech.github.io/
-baseurl:          /group-presentations
+baseurl:          group-presentations/
 
 author:
   name:           'WhiteMech'
