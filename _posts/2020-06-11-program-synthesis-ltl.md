@@ -26,8 +26,6 @@ dissertation are summarized as follows:
 - We investigate the power of automata minimization in LTLf synthesis;
 - We generalize our symbolic LTLf framework to LTLf synthesis with simple fairness assumptions.
 
-### Recommended Readings:
-- TBA
-
 ### Material
 - [Dissertation](https://drive.google.com/file/d/1Ya-o3tSwKHoeamRWQTBGdu_0-tz63cLN/view?usp=sharing)
+- [Slides](https://drive.google.com/file/d/1BwPS9z6kb6arRHMWMhGDd62geRRdgpUo/view?usp=sharing)
