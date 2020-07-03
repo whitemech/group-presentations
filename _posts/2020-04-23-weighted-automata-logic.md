@@ -9,7 +9,7 @@ title: Rational Series, Weighted Automata, Weighted Monadic Second Order Logic o
 
 **Topic**: Introduction to Rational Series, Weighted Automata, Weighted Monadic Second Order Logic on Finite Traces.
 
-**Speaker**: [Alessandro Ronca](hhttps://ronca.me/)
+**Speaker**: [Alessandro Ronca](https://ronca.me/)
 
 ### Abstract
 Introduction to Rational Series, Weighted Automata, Weighted Monadic Second Order Logic on Finite Traces.
